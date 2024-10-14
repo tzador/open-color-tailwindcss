@@ -1,0 +1,15 @@
+{
+  "name": "open-color-tailwindcss",
+  "version": "1.0.0",
+  "description": "open-color palette for tailwindcss",
+  "main": "index.mjs",
+  "scripts": {
+    "generate": "node scripts/generate.mjs"
+  },
+  "keywords": [
+    "open-color",
+    "tailwindcss"
+  ],
+  "author": "Tim Zadorozhny <tzador@gmail.com>",
+  "license": "MIT"
+}
